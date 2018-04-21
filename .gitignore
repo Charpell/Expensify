@@ -2,3 +2,5 @@ node_modules
 public/scripts/app.js
 build
 public/dist/
+src/tests/components/__snapshots__/
+
