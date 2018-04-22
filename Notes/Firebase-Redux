@@ -1,0 +1,4 @@
+Component calls action generator
+Action generator returns function
+Component dispatches function
+function runs (has the ability to dispatch other actions and do whatever it wants)
