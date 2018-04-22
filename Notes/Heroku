@@ -3,3 +3,15 @@ heroku --version
 heroku login
 heroku create appName or heroku apps:create appName
 git remote
+
+
+// Configure Heroku Enviroment Variables
+heroku config 
+heroku config:set KEY=value
+heroku config
+
+// Remove the Enviroment Variables
+heroku config:unset KEY
+
+// Configure more than 1 Enviroment Variables
+heroku config:set KEY=value KEY=value KEY=value KEY=value

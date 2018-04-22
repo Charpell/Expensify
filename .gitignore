@@ -3,4 +3,5 @@ public/scripts/app.js
 build
 public/dist/
 src/tests/components/__snapshots__/
-
+.env.development
+.env.test
